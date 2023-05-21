@@ -5,7 +5,6 @@
 
 결제,스프링배치 예약문자 추가예정
 
-<br><br>
 ## 프로젝트 목표
 
 리액트와 스프링부트의 연동을 통해서 REST API 시스템 개발
@@ -53,5 +52,4 @@
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3e32a94f-57e3-4bfd-a949-9534d10b28b2/Untitled.png)
 
 ## 관리자 문의답변
-
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf52c2ac-20fb-4f92-b75a-7982563c0df8/Untitled.png)
